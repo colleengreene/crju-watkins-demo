@@ -12,10 +12,7 @@ credits: true
 
 ## About CollectionBuilder-Sheets
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
-
-Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
-This enables active collaboration to prototype collections with minimal set up.
+This site is a demo project to test out the [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets) and the [CollectionBuilder-GH] (https://github.com/CollectionBuilder/collectionbuilder-gh) templates for digital exhibit projects. This demo project was built by [Colleen Robledo Greene, MLIS](https://www.library.fullerton.edu/about/faculty-staff.html?itemID=4b8e-b66a-d31e238), the Digital Scholarship Librarian at California State University, Fullerton, using CollectionBuilder demo content and metadata.
 
 <button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
     <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
