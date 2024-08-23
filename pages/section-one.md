@@ -1,7 +1,7 @@
 ---
 title: Exhibit Section One
 layout: about
-permalink: /exhibit/section-one/
+permalink: /section-one.html
 ---
 # Exhibit Section One
 
