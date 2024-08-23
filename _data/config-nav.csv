@@ -9,5 +9,5 @@ Data,/data.html
 display_text,stub,dropdown_parent
 Exhibit,,
 Introduction,/exhibit/,Exhibit
-Section One,/exhibit,Exhibit
+Section One,/exhibit/section-one/,Exhibit
 About,/about.html
